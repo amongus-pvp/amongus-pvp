@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me -> amongus_pvp on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i hate people whos name starts with D
+- ⚡ Fun fact: i hate people whos name starts with an I
 
 <!---
 amongus-pvp/amongus-pvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
