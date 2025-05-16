@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amongus_pvp
 - Informatics/Math olympiad enthusiast
 - amongus_pvp on discord if you wanna reach out to me
-- Pronouns: he/him
 
 I really only have 1 public project right now which is my compilation of solutions for Australian Informatics problems but I might be looking to expand on that
 
